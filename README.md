@@ -19,6 +19,30 @@ An Excel based sale performance and business profitabilty
 3. Orange
 
 
+- Ekene
+- Chinenye
+- Esther
+- Avocado
+
+
+``i am learning advance Excel``
+
+~i am learning advance excel~
+
+
+~~i am learning advance ecel~~
+
+
 
 <img width="675" height="650" alt="Screenshot 2026-10-05 120642" src="https://github.com/user-attachments/assets/2b8edf83-2b8d-4db4-a79b-80cfb387f568" />
+
+
+![dashboard](Dashboard.png)
+
+
+![dashboard](Dashboard.png)
+
+
+[google](https://google.com)
+
 
